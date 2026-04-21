@@ -1,0 +1,17 @@
+# Environments
+.venv/
+env/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files
+.vscode/
+
+# Project specific
+data/
+images/
+pipeline.log

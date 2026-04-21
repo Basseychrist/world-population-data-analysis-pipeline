@@ -39,7 +39,7 @@ menu = st.sidebar.radio(
 # --- 1. Overview Section ---
 if menu == "Overview (Problem, Hypothesis, Conclusion)":
     st.title("🌍 World Population Data Analysis Dashboard")
-    st.image("https://plus.unsplash.com/premium_photo-1661963057116-2584fb41d1db?auto=format&fit=crop&w=1200&q=80", use_column_width=True)
+    st.image("https://plus.unsplash.com/premium_photo-1661963057116-2584fb41d1db?auto=format&fit=crop&w=1200&q=80", use_container_width=True)
 
     st.header("Statement of the Problem")
     st.write("""
